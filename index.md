@@ -1,3 +1,4 @@
+[How to GIT Commit](commit.md)
 Uvod u GIT i GitHub
 # What is Git?
 ![GitLogo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/800px-Git-logo.svg.png)
