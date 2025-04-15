@@ -1,6 +1,7 @@
 [How to GIT Commit](commit.md)
-Uvod u GIT i GitHub
-# What is Git?
+# Uvod u GIT i GitHub
+
+## What is Git?
 ![GitLogo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/800px-Git-logo.svg.png)
 
 Git is a popular version control system. It was created by Linus Torvalds in 2005, and has been maintained by Junio Hamano since then.
