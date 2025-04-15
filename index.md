@@ -5,6 +5,7 @@
 ![GitLogo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/800px-Git-logo.svg.png)
 
 Git is a popular version control system. It was created by Linus Torvalds in 2005, and has been maintained by Junio Hamano since then.
+Link to [404 error message](tmp/404.md)
 
 ## It is used for:
 + Tracking code changes
